@@ -1,0 +1,15 @@
+---
+id: great-for-26
+title: Great on macOS Tahoe
+description: Discover apps that run well on macOS Tahoe
+image: tahoe.jpg
+casks: acorn, pearcleaner, utm, fantastical, sidenotes,
+---
+
+---
+id: test-test
+title: TEST
+description: Test for testing
+image: test.jpg
+casks: firefox, ollama
+---
