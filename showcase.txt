@@ -4,6 +4,7 @@ title: Great on macOS Tahoe
 description: Discover apps that run well on macOS Tahoe
 text: These apps all feature Apple's beautiful new Liquid Glass design that can be enjoyed while you edit photos in Acorn, run virtual machines in UTM, or plan your week in Fantastical.
 image: tahoe.jpg
+photocredit: none
 casks: acorn, pearcleaner, utm, fantastical, sidenotes,
 ---
 
