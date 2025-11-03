@@ -15,6 +15,5 @@ description: Build personalized AI chatbots to do your biding
 text: First, go to ollama.com￼, click Sign In, then Create Account. Pick a username you like because it’ll be part of your model’s name and can’t be changed. After that, open the Ollama app, click the gear icon, and sign in. Next, make a file called Modelfile that tells Ollama what to use as a base and how your model should act. For example: FROM deepseek-r1:8b PARAMETER temperature 0.7 SYSTEM """You are a helpful assistant""". A higher temperature makes it more creative, lower makes it more focused. Finally, open Terminal and run ollama create [username]/[modelname] -f [modelfile] and then ollama push [username]/[modelname]. You can also go to your Ollama profile later to add a description or README.
 image: ollama-build.jpg
 photocredit: ollama.com
-
 casks: ollama-app
 ---
