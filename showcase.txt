@@ -10,7 +10,7 @@ casks: acorn, pearcleaner, utm, fantastical, sidenotes,
 ---
 id: ollama-build
 title: Create custom AI models with Ollama
-description: Test for testing
+description: Build personalized Ai chatbots to do your biding
 text: Step One: Create an Account
 
 if you don’t already have an Ollama account go to ollama.com and click ‘Sign In’ then click
@@ -40,6 +40,6 @@ ollama push [username]/[custom model name]
 
 Optional: once you’ve pushed your model you can go to ollama.com > Profile > My models then
 you can add a description and a ReadMe.
-image: ollam-build.jpg
+image: ollama-build.jpg
 casks: ollama
 ---
